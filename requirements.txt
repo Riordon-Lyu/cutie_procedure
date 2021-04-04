@@ -1,4 +1,4 @@
 pandas
 numpy
 streamlit
-xlrd
+xlrd==1.9.9
