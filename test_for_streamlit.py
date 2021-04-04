@@ -7,6 +7,7 @@ input=st.text_input('请输入：')
 
 if input=='么么哒':
     '贼聪明'
+    st.balloons()
 elif input=='':
     st.write('')
 else:
