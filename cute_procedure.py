@@ -20,9 +20,13 @@ if input=='么么哒':
         st.success('恭喜答对啦！')
         st.balloons()
         st.markdown('![](https://z3.ax1x.com/2021/04/04/cKBFPg.png)')
-
+elif input=='':
+    ''
 else:
     '呆呆小沙雕！哈哈哈~'
+
+
+
 
 
 
